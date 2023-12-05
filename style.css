@@ -1,4 +1,13 @@
-@charset "UTF-8";
 body {
-  color: salmonЁ;
+  color: salmon;
+}
+
+h1 {
+  color: wheat;
+  padding: 30px;
+}
+
+p {
+  color: red;
+  background-color: aqua;
 }/*# sourceMappingURL=style.css.map */
